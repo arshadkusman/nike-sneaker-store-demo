@@ -66,7 +66,7 @@ class GetStartedPage1 extends StatelessWidget {
                 ),
                 const Spacer(),
                 Positioned(
-                  bottom: 80, // Position at the bottom
+                  bottom: 0, // Position at the bottom
                   left: 0,
                   right: 0,
                   child: Padding(
