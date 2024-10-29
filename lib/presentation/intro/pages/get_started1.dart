@@ -28,14 +28,14 @@ class GetStartedPage1 extends StatelessWidget {
               'assets/images/nike_vector.png',
             ),
           ),
-          Positioned(
-            top: 220,
-            left: 40,
-            child: Image.asset(
-              'assets/images/getStarted1_vector.png',
-              height: 560,
-            ),
-          ),
+          // Positioned(
+          // top: 220,
+          //left: 40,
+          //child: Image.asset(
+          //'assets/images/getStarted1_vector.png',
+          //height: 560,
+          //),
+          //),
           // Text and button section
           Padding(
             padding: const EdgeInsets.all(30),
@@ -64,9 +64,9 @@ class GetStartedPage1 extends StatelessWidget {
                     ],
                   ),
                 ),
-                const SizedBox(height: 530),
+                const Spacer(),
                 Positioned(
-                  bottom: 0, // Position at the bottom
+                  bottom: 80, // Position at the bottom
                   left: 0,
                   right: 0,
                   child: Padding(
