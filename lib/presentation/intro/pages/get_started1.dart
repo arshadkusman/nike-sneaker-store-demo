@@ -64,7 +64,7 @@ class GetStartedPage1 extends StatelessWidget {
                     ],
                   ),
                 ),
-                const Spacer(),
+                const SizedBox(height: 530),
                 Positioned(
                   bottom: 0, // Position at the bottom
                   left: 0,
