@@ -67,27 +67,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/nike_logo.png
-    - assets/images/getStarted1.png
-    - assets/images/nike_vector.png
-    - assets/images/getStarted1_vector.png
-    - assets/images/getStarted2.png
-    - assets/images/getStarted3.png
-    - assets/images/google_logo.png
-    - assets/images/shoe1.png
-    - assets/images/shoe2.png
-    - assets/images/shoe3.png
-    - assets/images/shoe4.png
-    - assets/images/shoe5.png
-    - assets/images/homeCard.png
-    - assets/images/homeCardShoe.png
-    - assets/images/navBarVector.png
-    - assets/images/slider_vector.png
-    - assets/images/shoe6.png
-    - assets/images/profile_photo.jpeg
-    - assets/images/celebration_vector.png
-    - assets/images/map.png
-
+    - assets/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
