@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nike_sneaker_store/presentation/intro/pages/get_started2.dart';
+import 'package:nike_sneaker_store/presentation/intro/pages/get_started1.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
@@ -32,7 +32,7 @@ class _SplashPageState extends State<SplashPage> {
     // ignore: use_build_context_synchronously
     Navigator.pushReplacement(context,
       MaterialPageRoute(
-        builder: (BuildContext context) => const GetStartedPage2()
+        builder: (BuildContext context) => const GetStartedPage1()
       )
     );
   }
