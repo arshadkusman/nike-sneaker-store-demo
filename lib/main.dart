@@ -75,15 +75,13 @@ void main() {
         Devices.android.onePlus8Pro, // Different aspect ratio
         Devices.android.sonyXperia1II, // Tall screen
 
-        // Popular iOS Devices
-        Devices.ios.iPhoneSE, // Small screen
-        Devices.ios.iPhone12, // Standard size
+        // Popular iOS Devices  
         Devices.ios.iPhone12Mini, // Compact
         Devices.ios.iPhone12ProMax, // Large
         Devices.ios.iPhone13, // Latest standard
         Devices.ios.iPhone13ProMax, // Latest large
         Devices.ios.iPhone13Mini, // Latest compact
-        Devices.ios.iPhoneSE, // Budget option
+       // Budget option
       ],
 
       /// Your app's entry point
