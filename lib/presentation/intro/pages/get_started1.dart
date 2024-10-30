@@ -64,12 +64,8 @@ class GetStartedPage1 extends StatelessWidget {
                     ],
                   ),
                 ),
-                const SizedBox(height: 500),
-                Positioned(
-                  bottom: 80, // Position at the bottom
-                  left: 0,
-                  right: 0,
-                  child: Padding(
+                const Spacer(),
+              Padding(
                     padding: const EdgeInsets.only(),
                     child: SizedBox(
                       width: double.infinity, // Full width button
@@ -100,7 +96,7 @@ class GetStartedPage1 extends StatelessWidget {
                       ),
                     ),
                   ),
-                ),
+                
               ],
             ),
           ),
